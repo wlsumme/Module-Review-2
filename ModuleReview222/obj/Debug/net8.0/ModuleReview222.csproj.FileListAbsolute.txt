@@ -1,0 +1,14 @@
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\bin\Debug\net8.0\ModuleReview222.exe
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\bin\Debug\net8.0\ModuleReview222.deps.json
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\bin\Debug\net8.0\ModuleReview222.runtimeconfig.json
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\bin\Debug\net8.0\ModuleReview222.dll
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\bin\Debug\net8.0\ModuleReview222.pdb
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.AssemblyInfoInputs.cache
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.AssemblyInfo.cs
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.csproj.CoreCompileInputs.cache
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.dll
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\refint\ModuleReview222.dll
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.pdb
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ModuleReview222.genruntimeconfig.cache
+C:\Users\wlsum\source\repos\ModuleReview222\ModuleReview222\obj\Debug\net8.0\ref\ModuleReview222.dll
